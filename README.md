@@ -14,7 +14,7 @@ The Recycle Adventure project aims to develop an engaging 3D game to teach prima
 
 ## Gameplay
 
-In Recycle Adventure, players assume the role of David, navigating through various stages with recycling-related objectives. Initially, the goal is to gather recyclable materials like paper, plastic, glass, and aluminium while steering clear of non-recyclable items. Following this stage, players must dispose of recyclable materials by throwing them into their corresponding recycling bins in the next stage. Upon completing each stage, players accumulate points based on their performance, contributing to their total score and potential rank on the leaderboard.
+In Recycle Adventure, players will be helping David, navigating through various stages with recycling-related objectives. Initially, the goal is to gather recyclable materials like paper, plastic, glass, and aluminium while steering clear of non-recyclable items. Following this stage, players must dispose of recyclable materials by throwing them into their corresponding recycling bins in the next stage. Upon completing each stage, players accumulate points based on their performance, contributing to their total score and potential rank on the leaderboard.
 
 ## Controls
 
@@ -27,9 +27,10 @@ In Recycle Adventure, players assume the role of David, navigating through vario
 
 To start playing the game, please follow these simple steps:
 
-1. Clone or download the repository to your local machine. (Repository link: [GitHub Repository](https://github.com/your-username/your-repository))
-2. Navigate to the game folder and locate the executable (".exe") file.
-3. Double-click on the executable file to launch the game and start playing.
+1. Clone or download the repository to your local machine. (Repository link: [GitHub Repository](https://github.com/Syafiq001/3D-GAME-RECYCLE-ADVENTURE.git))
+2. Skip this step if step 1 succeded, [Download from Google Drive](https://drive.google.com/drive/folders/16J771-sxc0l7QnKF9PL1XUD7c9Ckm3U0?usp=sharing)
+3. Navigate to the game folder and locate the executable ("PSM2 Recycle Adventure.exe") file.
+4. Double-click on the executable file to launch the game and start playing.
 
 ## Credits
 
