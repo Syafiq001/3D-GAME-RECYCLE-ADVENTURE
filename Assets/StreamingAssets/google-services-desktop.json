@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093848181",
+    "firebase_url": "https://recycleadventure-729a3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "recycleadventure-729a3",
+    "storage_bucket": "recycleadventure-729a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093848181:android:c2b12cf39f90f8b26b3c3c",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ProjectPSM2Recycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093848181-qe0hmnpkghv0pkj02j433svklt06oi6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3kPXNTDdeLoCAZjdoQ6xBzsUeOrwup8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093848181-qe0hmnpkghv0pkj02j433svklt06oi6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

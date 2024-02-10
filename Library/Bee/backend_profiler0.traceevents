@@ -1,0 +1,454 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1707565098585168, "dur":1326, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098586500, "dur":107, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1707565098586642, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1707565098586660, "dur":415, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1707565098587100, "dur":558, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098587658, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646526, "dur":250, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646776, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646789, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646791, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646797, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646798, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646806, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646808, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646822, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646824, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646830, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646832, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646837, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646838, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646842, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646843, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646847, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646848, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646852, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646853, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646857, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646858, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646862, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646863, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646867, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646881, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098646903, "dur":1830, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1707565098587168, "dur":495, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098587664, "dur":5966, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593657, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593659, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593794, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593796, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593870, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593938, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098593997, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707565098594058, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098594119, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707565098594193, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098594253, "dur":440, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707565098594693, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098594922, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707565098595001, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098595064, "dur":724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707565098595788, "dur":409, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098596197, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1707565098596293, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707565098621074, "dur":12316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1707565098633437, "dur":13085, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098587188, "dur":479, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098587668, "dur":5988, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098593657, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1707565098593798, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098593869, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1707565098593923, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594029, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594152, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594214, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594377, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594439, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594500, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594558, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594736, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098594866, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595012, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595072, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595231, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595296, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595355, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595406, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595460, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595625, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595681, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595739, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595825, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595880, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Firebase.App.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595938, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098595992, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1707565098596058, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098596840, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1707565098599012, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1707565098599200, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098599280, "dur":722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1707565098600003, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098600070, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/resources.resource" }}
+,{ "pid":12345, "tid":2, "ts":1707565098600132, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707565098600136, "dur":26692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/resources.resource" }}
+,{ "pid":12345, "tid":2, "ts":1707565098626896, "dur":19629, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098587214, "dur":457, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098587671, "dur":5986, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098593659, "dur":130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1707565098593789, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098593863, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1707565098593939, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594025, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594101, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594162, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594232, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594287, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594343, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594443, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594506, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594564, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594621, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594676, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594738, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594857, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098594960, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098595024, "dur":1579, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707565098596603, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098596663, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1707565098596718, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098596816, "dur":3484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1707565098600389, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level6" }}
+,{ "pid":12345, "tid":3, "ts":1707565098600480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098600484, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level6" }}
+,{ "pid":12345, "tid":3, "ts":1707565098603458, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level4.resS" }}
+,{ "pid":12345, "tid":3, "ts":1707565098603519, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098603523, "dur":8094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level4.resS" }}
+,{ "pid":12345, "tid":3, "ts":1707565098611702, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1707565098611794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098611798, "dur":2293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1707565098614173, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1707565098614363, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707565098614432, "dur":32092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098587232, "dur":443, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098587675, "dur":5978, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098593657, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1707565098593758, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098593822, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1707565098593897, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098593957, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure.exe" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594037, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594109, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594178, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594243, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594308, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594369, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594430, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594483, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594539, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594626, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594691, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594760, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098594863, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098595015, "dur":740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098595755, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098595938, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Plugins/x86_64/FirebaseCppDatabase.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707565098596093, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098596158, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1707565098596214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707565098620517, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1707565098622007, "dur":24536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098587251, "dur":427, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098587678, "dur":5980, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098593659, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1707565098593751, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098593814, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1707565098593882, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098593938, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594040, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594107, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594169, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594244, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594307, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594371, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594433, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594491, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594553, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594625, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594690, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594759, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098594924, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595000, "dur":503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595503, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595564, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595622, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595685, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595741, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595801, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Google.MiniJson.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595855, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595913, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707565098595980, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098596044, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1707565098596098, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098597136, "dur":2975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1707565098600170, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level6.resS" }}
+,{ "pid":12345, "tid":5, "ts":1707565098600231, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098600234, "dur":9610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level6.resS" }}
+,{ "pid":12345, "tid":5, "ts":1707565098609904, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level2.resS" }}
+,{ "pid":12345, "tid":5, "ts":1707565098609972, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707565098609978, "dur":4557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level2.resS" }}
+,{ "pid":12345, "tid":5, "ts":1707565098614592, "dur":31931, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098587272, "dur":410, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098587682, "dur":5973, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098593657, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1707565098593793, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098593864, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1707565098593932, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098593993, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594130, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594199, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594265, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594329, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594389, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594453, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594520, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594583, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594651, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594708, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594768, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098594954, "dur":538, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595492, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595567, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595628, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595698, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595762, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595825, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Firebase.Platform.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595909, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098595966, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Plugins/x86_64/FirebaseCppApp-11_6_0.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707565098596019, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098596067, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":6, "ts":1707565098596131, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098598261, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":6, "ts":1707565098600165, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1707565098600225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098600229, "dur":8809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/resources.assets" }}
+,{ "pid":12345, "tid":6, "ts":1707565098609101, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1707565098609168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098609175, "dur":4013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1707565098613260, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1707565098613328, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707565098613332, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1707565098615862, "dur":30657, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098587301, "dur":442, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098587743, "dur":5911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098593658, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1707565098593814, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098593880, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098593947, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594032, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594096, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594149, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594213, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594271, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594334, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594400, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594459, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594520, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594584, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594659, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594723, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594850, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098594967, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595042, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595208, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595276, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595335, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595385, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595439, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595489, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595544, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595594, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595646, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595699, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595766, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595826, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Firebase.Database.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707565098595900, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098596131, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1707565098596196, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098606440, "dur":5358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1707565098611865, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1707565098611924, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707565098611927, "dur":4915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1707565098616900, "dur":29659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098587321, "dur":425, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098587746, "dur":5926, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098593672, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1707565098593771, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098593826, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1707565098593892, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098593977, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594038, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594118, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594195, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594260, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594323, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594385, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594444, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594512, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594631, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594698, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594764, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098594958, "dur":765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098595723, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098595789, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098595850, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098595904, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707565098596083, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098596138, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1707565098596206, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098607462, "dur":6573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1707565098614097, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1707565098614177, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707565098614182, "dur":2511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1707565098616758, "dur":29760, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098587341, "dur":408, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098587749, "dur":5911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098593660, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1707565098593789, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098593855, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1707565098593919, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098593977, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594041, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594118, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594189, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594260, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594321, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594379, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594449, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594518, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594592, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594655, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594715, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594771, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594864, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098594960, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098595061, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098595113, "dur":765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098595879, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098595946, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Plugins/x86_64/FirebaseCppAuth.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707565098596008, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098596063, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":9, "ts":1707565098596125, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098597699, "dur":2326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":9, "ts":1707565098600080, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1707565098600138, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707565098600144, "dur":46311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1707565098646500, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":9, "ts":1707565098646501, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098587362, "dur":390, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098587752, "dur":5900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098593657, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1707565098593800, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098593975, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098594209, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098594280, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098594342, "dur":520, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098594862, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098594969, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595034, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595189, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595249, "dur":421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595670, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595728, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595792, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595853, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Firebase.Auth.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595913, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098595976, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/StreamingAssets/google-services-desktop.json" }}
+,{ "pid":12345, "tid":10, "ts":1707565098596030, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098596086, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1707565098596152, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707565098606015, "dur":10741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1707565098616808, "dur":29723, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098587376, "dur":379, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098587755, "dur":5904, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098593659, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1707565098593906, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098593965, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594039, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594119, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594193, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594263, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594327, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594387, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594448, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594513, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594576, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594641, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594703, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594767, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594868, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098594975, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595262, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595318, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595369, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595414, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595468, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595519, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595572, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595627, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595683, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595738, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707565098595805, "dur":329, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098596134, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1707565098596202, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098606997, "dur":4287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":11, "ts":1707565098611345, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1707565098611413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707565098611418, "dur":4653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level1.resS" }}
+,{ "pid":12345, "tid":11, "ts":1707565098616160, "dur":30384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098587393, "dur":365, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098587758, "dur":5900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098593658, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1707565098593812, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098593872, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098593956, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594035, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594106, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594166, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594277, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594339, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594405, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594464, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594521, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594592, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594674, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594729, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594854, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098594946, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595126, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595187, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595242, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595299, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595359, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595414, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595501, "dur":305, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595807, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/Managed/Firebase.TaskExtension.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707565098595971, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098596029, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":12, "ts":1707565098596146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098598912, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":12, "ts":1707565098600528, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level5" }}
+,{ "pid":12345, "tid":12, "ts":1707565098600578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098600581, "dur":3018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level5" }}
+,{ "pid":12345, "tid":12, "ts":1707565098603643, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level4" }}
+,{ "pid":12345, "tid":12, "ts":1707565098603683, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098603689, "dur":7496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level4" }}
+,{ "pid":12345, "tid":12, "ts":1707565098611272, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/level2" }}
+,{ "pid":12345, "tid":12, "ts":1707565098611353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098611362, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/level2" }}
+,{ "pid":12345, "tid":12, "ts":1707565098613564, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Built/PSM2 Recycle Adventure_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1707565098613628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707565098613632, "dur":2442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Built/PSM2 Recycle Adventure_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1707565098616132, "dur":30426, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707565098650700, "dur":1803, "ph":"X", "name": "ProfilerWriteOutput" }
+,
