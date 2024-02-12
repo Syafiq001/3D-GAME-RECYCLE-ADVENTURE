@@ -29,7 +29,7 @@ To start playing the game, please follow these simple steps:
 
 1. Clone or download the repository to your local machine. (Repository link: [GitHub Repository](https://github.com/Syafiq001/3D-GAME-RECYCLE-ADVENTURE.git))
 2. Skip this step if step 1 succeded, [Download from Google Drive](https://drive.google.com/drive/folders/16J771-sxc0l7QnKF9PL1XUD7c9Ckm3U0?usp=sharing)
-3. Navigate to the game folder and locate the executable ("PSM2 Recycle Adventure.exe") file.
+3. Navigate to the built folder and locate the executable ("PSM2 Recycle Adventure.exe") file.
 4. Double-click on the executable file to launch the game and start playing.
 
 ## Credits
